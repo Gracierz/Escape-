@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="description" content="PayEscrow is a secure online payment processing  escrow service.">
+<meta name="keywords" content="PayEscrow, online transactions, safe online transactions,  escrow service">
+<link rel="shortcut icon" href="../images/favicon.png" type="image/x-icon">
+
+<link rel="apple-touch-icon" href="../images/logo.png">
+<title>PayEscrow | 404</title>
+<link rel="icon" type="image/png" sizes="16x16" href="../images/favicon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black">
+<meta name="apple-mobile-web-app-title" content="PayEscrow | 404">
+
+<meta itemprop="name" content="PayEscrow | 404">
+<meta itemprop="description" content="PayEscrow is a secure online payment processing  escrow service.">
+<meta itemprop="image" content="https://script.bugfinder.net/payescrow/assets/uploads/logo/meta.png600x315">
+
+<meta property="og:type" content="website">
+<meta property="og:title" content="Collect money using PayEscrow">
+<meta property="og:description" content="Secure online payment processing  escrow service.">
+<meta property="og:image" content="../images/meta.png">
+<meta property="og:image:type" content="image/png">
+<meta property="og:url" content="https://script.bugfinder.net/payescrow/assets/admin/fonts/TofinoPersonal-Book.eot">
+
+<meta name="twitter:card" content="summary_large_image">
+    <link rel="stylesheet" type="text/css" href="../css/bootstrap.min.css">
+
+    
+    <link rel="stylesheet" type="text/css" href="../css/line-awesome.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/nice-select.css">
+
+    <link rel="stylesheet" type="text/css" href="../css/owl.min.css">
+    <link rel="stylesheet" type="text/css" href="../css/main.css">
+    
+</head>
+
+<body>
+
+<div class="loader">
+    <div class="loader-inner">
+        <div class="loader-line-wrap">
+            <div class="loader-line"></div>
+        </div>
+        <div class="loader-line-wrap">
+            <div class="loader-line"></div>
+        </div>
+        <div class="loader-line-wrap">
+            <div class="loader-line"></div>
+        </div>
+        <div class="loader-line-wrap">
+            <div class="loader-line"></div>
+        </div>
+        <div class="loader-line-wrap">
+            <div class="loader-line"></div>
+        </div>
+    </div>
+</div>
+
+
+<!--=======Header=======-->
+<header>
+    <div class="container">
+        <div class="header__wrapper">
+            <div class="left__side">
+                <div class="logo">
+                    <a href="https://script.bugfinder.net/payescrow">
+                        <img src="../images/logo.png" alt="logo">
+                    </a>
+                </div>
+            </div>
+            <div class="right__side">
+                <ul class="menu">
+                    <li>
+                        <a href="https://script.bugfinder.net/payescrow">Home</a>
+                    </li>
+                    <li>
+                        <a href="https://script.bugfinder.net/payescrow/about"> About Us</a>
+                    </li>
+                    <li>
+                        <a href="https://script.bugfinder.net/payescrow/blog">Blog</a>
+                    </li>
+                    <li>
+                        <a href="https://script.bugfinder.net/payescrow/contact">Contact</a>
+                    </li>
+
+                                        <li>
+                        <a href="https://script.bugfinder.net/payescrow/login">Sign In</a>
+                    </li>
+                    <li>
+                        <a href="https://script.bugfinder.net/payescrow/register">Sign Up</a>
+                    </li>
+                    
+                    
+
+
+                </ul>
+                <div class="header-bar d-md-none me-2">
+                    <span></span>
+                    <span></span>
+                    <span></span>
+                </div>
+                <select class="select-bar language">
+                                        <option value="US">English</option>
+                                        <option value="ES">Espain</option>
+                    
+                </select>
+            </div>
+        </div>
+    </div>
+</header>
+<!--=======Header=======-->
+
+
+
+
+
+    <section class="hero-section bg_img" data-background="https://script.bugfinder.net/payescrow/assets/uploads/logo/banner.jpg" style="background-image: url(../images/banner.jpg);">
+             <div class="container">
+                 <div class="hero-content">
+                     <h2 class="hero-title">404</h2>
+                 </div>
+             </div>
+         </section>
+     
+    <section class="how-to-section  pt-120 pb-120">
+        <div class="container">
+            <div class="row justify-content-center">
+                <div class="col-md-12 text-center">
+                    <span class="display-1 d-block">Opps!</span>
+                    <div class="mb-4 lead">The page you are looking for was not found.</div>
+                    <a class="cmn-btn" href="https://script.bugfinder.net/payescrow">Back To Home</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+<!-- Footer Section -->
+<footer class="footer-section position-relative overflow-hidden" id="subscribe">
+    <div class="circle-1"></div>
+    <div class="circle-2"></div>
+    <div class="container">
+        <div class="pt-100 pb-100">
+            <div class="row gy-5">
+                <div class="col-lg-3 col-sm-6">
+                    <div class="text-start footer-about">
+                        <div class="footer-logo mb-25 ms-0">
+                            <a href="https://script.bugfinder.net/payescrow">
+                                <img src="../images/logo.png" alt="footer">
+                            </a>
+                        </div>
+
+                                                <p class="mt-3">PayEscrow is a secure online payment processing  escrow service for using worldwide.</p>
+                        
+
+                                                    <ul class="social-icons-2 mt-3">
+                                                                    <li>
+                                        <a href="https://www.facebook.com/" title>
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.skype.com/en/" title>
+                                            <i class="fab fa-skype"></i>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://www.pinterest.com/" title>
+                                            <i class="fab fa-pinterest-p"></i>
+                                        </a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://telegram.org/" title>
+                                            <i class="fab fa-telegram"></i>
+                                        </a>
+                                    </li>
+                                                            </ul>
+                                            </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="text-start footer-widget social-border-color-1">
+                        <h6 class="footer__title text-white">About Company</h6>
+                        <ul class="footer__links">
+                            <li>
+                                <a href="https://script.bugfinder.net/payescrow">Home</a>
+                            </li>
+                            <li>
+                                <a href="https://script.bugfinder.net/payescrow/about"> About Us</a>
+                            </li>
+                            <li>
+                                <a href="https://script.bugfinder.net/payescrow/blog">Blog</a>
+                            </li>
+                            <li>
+                                <a href="https://script.bugfinder.net/payescrow/faq">FAQ</a>
+                            </li>
+
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-sm-6">
+                    <div class="text-start footer-widget social-border-color-1">
+                        <h6 class="footer__title text-white">Useful Links</h6>
+                        <ul class="footer__links">
+                            <li>
+                                <a href="https://script.bugfinder.net/payescrow/contact">Contact</a>
+                            </li>
+
+                                                                                            <li>
+                                        <a href="https://script.bugfinder.net/payescrow/privacy/33">Privacy</a>
+                                    </li>
+                                                                    <li>
+                                        <a href="https://script.bugfinder.net/payescrow/terms-amp-conditions/34">Terms &amp; conditions</a>
+                                    </li>
+                                                            
+
+                        </ul>
+                    </div>
+                </div>
+                
+
+                    <div class="col-lg-3 col-sm-6">
+                        <div class="text-start footer-widget text-light">
+                            <h6 class="footer__title text-white">Subscribe Newsletter</h6>
+                            <p>
+
+                                By subscribing to our mailing list you will always be updated                            </p>
+                            <form class="subscribe-form mt-3" action="https://script.bugfinder.net/payescrow/subscribe" method="post">
+                                <input type="hidden" name="_token" value>
+                                <div class="form-group">
+                                    <input type="email" class="form-control form--control section--bg" name="email" placeholder="Email Address">
+                                </div>
+                                <button class="cmn-btn" type="submit">Subscribe</button>
+                            </form>
+
+                                                    </div>
+                    </div>
+                            </div>
+        </div>
+    </div>
+    <div class="footer-bottom text-white">
+        <div class="container">
+            <div class="row justify-content-center g-2">
+                <div class="col-lg-6">
+                    <div class="copyright text-center">
+                        Copyright &copy; 2023 <a href="https://script.bugfinder.net/payescrow" class="text-white fw--semibold text-decoration-none">PayEscrow</a> All Right Reserved.
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</footer>
+<!-- Footer Section -->
+
+
+
+<script src="../js/jquery-3.6.0.min_1.js"></script>
+<script src="../js/bootstrap.min_1.js"></script>
+
+<script src="../js/notiflix-aio-2.7.0.min.js"></script>
+
+<script src="../js/nice-select.js"></script>
+<script src="../js/owl.min.js"></script>
+<script src="../js/pusher.min.js"></script>
+<script src="../js/vue.min.js"></script>
+<script src="../js/axios.min.js"></script>
+
+<script src="../js/main.js"></script>
+
+
+
+
+
+
+<script>
+    $(document).ready(function () {
+        $(".language").on('change', function (){
+            window.location.href = "https://script.bugfinder.net/payescrow/language/" + $(this).val()
+        })
+    })
+</script>
+
+
+</body>
+</html>
